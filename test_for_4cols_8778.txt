@@ -1,0 +1,7 @@
+../col_and_row_regression/test-data/labels/vacant2_444.txt
+../col_and_row_regression/test-data/labels/vacant2_446.txt
+../col_and_row_regression/test-data/labels/vacant2_451.txt
+../col_and_row_regression/test-data/labels/vacant2_453.txt
+../col_and_row_regression/test-data/labels/vacant2_557.txt
+../col_and_row_regression/test-data/labels/vacant2_581.txt
+../col_and_row_regression/test-data/labels/vacant2_755.txt
